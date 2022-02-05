@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/prioritizer/static/css/main.cb24ed6d.css",
+    "main.js": "/prioritizer/static/js/main.4a6e8c3a.js",
+    "service-worker.js": "/prioritizer/service-worker.js",
+    "index.html": "/prioritizer/index.html",
+    "main.cb24ed6d.css.map": "/prioritizer/static/css/main.cb24ed6d.css.map",
+    "main.4a6e8c3a.js.map": "/prioritizer/static/js/main.4a6e8c3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb24ed6d.css",
+    "static/js/main.4a6e8c3a.js"
+  ]
+}
